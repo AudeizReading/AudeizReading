@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![AudeizReading's 42 stats](https://badge42.herokuapp.com/api/stats/alellouc?darkmode=true&privacyName=true&privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![AudeizReading's 42 stats](https://badge42.herokuapp.com/api/stats/alellouc?darkmode=true&privacyName=true&privacyEmail=true)](https://github.com/JaeSeoKim/badge42) ![langages](https://github-readme-stats.vercel.app/api/top-langs?username=audeizreading&show_icons=true&locale=en&layout=compact)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=audeizreading)
+
+![stats note](https://github-readme-stats.vercel.app/api?username=audeizreading&show_icons=true&locale=en)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=audeizreading&) ![profil view](https://komarev.com/ghpvc/?username=audeizreading&label=Profile%20views&color=0e75b6&style=flat)
+
+<!-- ![icon]() -->
+
