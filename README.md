@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <p align="center">🔭 I’m currently working on <b>philosophers && minishell</b></p>
 <p align="center">🌱 I’m currently learning <b>C</b></p>
 
+
 <h3 align="left">Some statistics of my GitHub Account:</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=audeizreading&label=Profile%20views&color=0e75b6&style=flat" alt="profil view" /> </p>
