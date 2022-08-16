@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=audeizreading&label=Profile%20views&color=0e75b6&style=flat" alt="profil view" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=audeizreading" alt="trophy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=audeizreading&theme=onedark" alt="trophy" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=audeizreading&show_icons=true&locale=en&layout=compact" alt="top langages of repos" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=audeizreading&show_icons=true&locale=en&layout=compact&theme=onedark" alt="top langages of repos" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=audeizreading&show_icons=true&locale=en" alt="stats" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=audeizreading&show_icons=true&locale=en&theme=onedark" alt="stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=audeizreading&" alt="streaks" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=audeizreading&theme=onedark" alt="streaks" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
