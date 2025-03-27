@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <p align="left">You can find some description of my skills on my 
   <a href="https://audeizreading.github.io" target="_blank">website</a>.
 </p>
+<p><i>Complying to the 42 's directives, my cursus has been turned to private, in order to restrict access to cheaters, even it is my own codebase and no subjects were leaked. Contact directly me, if you need help or anything about this.</i></p>
 <p align="left">You should also take a look at my writtings on my  
   <a href="https://medium.com/@aude.lellouche" target="_blank">Medium</a> account. Feel free to read and comment them!
 </p>
